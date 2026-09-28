@@ -31,7 +31,7 @@ A **Streamlit** web application packages the key visualizations into a navigable
 | Language | Python 3.8+ |
 | Data Processing | Pandas, NumPy |
 | Machine Learning | Scikit-learn (RandomForestRegressor, KMeans) |
-| Visualization | Folium, Leaflet.js, Seaborn, Matplotlib |
+| Visualization | Folium, Leaflet.js |
 | Web App | Streamlit, streamlit-folium |
 | Tunneling | Localtunnel |
 
